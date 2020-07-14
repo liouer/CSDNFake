@@ -1,0 +1,23 @@
+body{
+    margin: 0 auto;
+    background-color: khaki;
+    color: maroon;
+}
+
+.header{
+    background-color: white;
+    align-content: center;
+}
+
+.nav_top_left{
+    background-color: lightseagreen;
+}
+.nav_top_right{
+    background-color: darkgreen;
+}
+
+li{
+    float: left;
+    list-style: none;
+    margin: 0 10px;
+}

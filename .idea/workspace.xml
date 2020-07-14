@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d788c14a-f044-4965-b4d8-5081529178a7" name="Default Changelist" comment="第一次提交，只完成了头部的部分导航。">
+      <change afterPath="$PROJECT_DIR$/../csdnF/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/.idea/csdnF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/css/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/img/input_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/img/like_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/img/message_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/img/search_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/img/user_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csdnF/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../csdnF" />
+  </component>
+  <component name="ProjectId" id="1eRWVegcoOBceJKUnoiy1wAEzX0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csdnF" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\myCode\cssStudy\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d788c14a-f044-4965-b4d8-5081529178a7" name="Default Changelist" comment="" />
+      <created>1594284910199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594284910199</updated>
+      <workItem from="1594284911511" duration="3287000" />
+      <workItem from="1594715324906" duration="1536000" />
+      <workItem from="1594716895378" duration="155000" />
+      <workItem from="1594717079416" duration="254000" />
+      <workItem from="1594717362634" duration="17413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交，只完成了头部的部分导航。" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交，只完成了头部的部分导航。" />
+  </component>
+</project>
