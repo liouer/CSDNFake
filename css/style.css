@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    align-content: center;
+    position: fixed;
+    width: 80%;
+    height: 100%;
+    background-color: #61558b;
+    overflow: hidden;
+    display: block;
+    /*height: calc(100% - 100px);     //本身减去离脚的高度，内容成一定比例缩放*/
+}
+.colors{
+    float: left;
+    border: coral solid 3px;
+    margin: 2% 2%;
+    /*position: relative;*/
+    width: 45%;
+    height: 20%;
+    overflow: hidden;
+    background-color: white;
+
+}
+.box1{
+    float: left;
+    border: red 2px solid;
+    box-sizing: border-box;
+    margin: 2%;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    cursor: pointer;
+    text-align: center;
+
+}
