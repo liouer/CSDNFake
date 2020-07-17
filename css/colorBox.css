@@ -2,36 +2,50 @@
     margin: 0;
     padding: 0;
 }
+body{
+    /*background-color: #c8ff68;*/
+    background: white;
+    text-align: center;
+}
+.content{
+
+}
 .box{
-    align-content: center;
-    position: fixed;
-    width: 80%;
-    height: 100%;
-    background-color: #61558b;
-    overflow: hidden;
-    display: block;
+    display: flex;
+    justify-content: space-between;
+}
+.box-top{
+    padding-top: 50px;
+}
+.box-content{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;        /*挤到一起就换行*/
+    width: 85%;
+    margin: 50px auto;
+    padding-top: 20px;
+    background-color: #f9f8f4;
+    /*overflow: hidden;*/
     /*height: calc(100% - 100px);     //本身减去离脚的高度，内容成一定比例缩放*/
 }
 .colors{
-    float: left;
-    border: coral solid 3px;
-    margin: 2% 2%;
-    /*position: relative;*/
-    width: 45%;
-    height: 20%;
-    overflow: hidden;
-    background-color: white;
-
+    display: flex;
+    justify-content: space-around;
+    /*flex-wrap: wrap;*/
+    width: 450px;
+    height: 150px;
+    border: coral solid;
+    margin: 10px 10px;
+    /*background-color: white;*/
 }
-.box1{
+.box-in{
     float: left;
-    border: red 2px solid;
+    border: red 1px solid;
     box-sizing: border-box;
     margin: 2%;
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
+    width: 65px;
+    height: 120px;
+    /*border-radius: 50%;*/
     cursor: pointer;
     text-align: center;
-
 }
